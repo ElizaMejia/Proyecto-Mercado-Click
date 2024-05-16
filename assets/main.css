@@ -76,11 +76,12 @@ nav li a:hover{
          }
 
 .fondo {
-          background-image: url(destacado.png);
+          background-image: url(imagenes/destacado.png);
           background-repeat: no-repeat;
           background-image: center;
           text-align: center;
           color: white;
+          background-size: cover;
        }
 
 .rombo {
