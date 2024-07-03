@@ -155,7 +155,6 @@ nav li a:hover{
                 display: inline-block;
                 text-align: center;
                 margin-right: 50px;
-                border: 0.5rem outset pink;
              }
 
 .rectanguloGarantia {
@@ -166,7 +165,6 @@ nav li a:hover{
                margin-top: 0;
                display: inline-block;
                text-align: center;
-               border: 0.5rem outset pink;
             }
 
 .rectanguloAtencion {
@@ -178,7 +176,6 @@ nav li a:hover{
                display: inline-block;
                text-align: center;
                margin-left: 50px;
-               border: 0.5rem outset pink;
             }
 
 .rectangulo2 {
@@ -189,7 +186,6 @@ nav li a:hover{
                 margin-top: 0;
                 display: inline-block;
                 text-align: left;
-                border: 0.5rem outset pink;
              }
 
 
@@ -198,12 +194,11 @@ nav li a:hover{
                 height: 200px; 
                 background: #12006D;
                 display: inline-block;
-                border: 0.5rem outset pink;
                 margin-left: 75px;
                 background-image: url(imagenes/logo.png);
                 background-repeat: no-repeat;
                 margin-left: 85px;
-                margin-top: -30px;
+                margin-bottom: 40px;
                 
              }
              
@@ -214,7 +209,6 @@ nav li a:hover{
                 display: inline-block;
                 text-align: left;
                 color: white;
-                border: 0.5rem outset pink;
                 margin-right: 75px;
                 margin-top: 50px;
 
