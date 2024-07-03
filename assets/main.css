@@ -64,9 +64,9 @@ nav li a:hover{
                display: inline-block;
                text-align: center;
                color: white;
-               margin-right: 75px;
+               margin-right: 10px;
             }
-
+            
 .rectanguloInsta {
                width: 400px; 
                height: 300px; 
@@ -87,7 +87,7 @@ nav li a:hover{
                display: inline-block;
                text-align: center;
                color: white;
-               margin-left: 75px;
+               margin-left: 10px;
             }
 
 .botonesR {
@@ -112,13 +112,12 @@ nav li a:hover{
 
 .textoRS {
            color: #BD1AC6;
-           display: inline
+           display: inline;
          }
 
 .fondo {
           background-image: url(imagenes/destacado.png);
           background-repeat: no-repeat;
-          background-image: center;
           text-align: center;
           color: white;
           background-size: contain;
@@ -155,7 +154,7 @@ nav li a:hover{
                 margin-top: 0;
                 display: inline-block;
                 text-align: center;
-                margin-right: 95px;
+                margin-right: 50px;
                 border: 0.5rem outset pink;
              }
 
@@ -178,7 +177,7 @@ nav li a:hover{
                margin-top: 0;
                display: inline-block;
                text-align: center;
-               margin-left: 95px;
+               margin-left: 50px;
                border: 0.5rem outset pink;
             }
 
@@ -193,6 +192,7 @@ nav li a:hover{
                 border: 0.5rem outset pink;
              }
 
+
 .rectangulo3 {
                 width: 300px; 
                 height: 200px; 
@@ -203,11 +203,12 @@ nav li a:hover{
                 background-image: url(imagenes/logo.png);
                 background-repeat: no-repeat;
                 margin-left: 85px;
+                margin-top: -30px;
                 
              }
              
 .rectangulo4 {
-                width: 950px; 
+                width: 850px; 
                 height: 300px; 
                 background: #12006D;
                 display: inline-block;
